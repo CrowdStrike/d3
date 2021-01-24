@@ -57,7 +57,7 @@
     "d3-fetch": "1",
     "d3-force": "1",
     "d3-format": "1",
-    "d3-geo": "1",
+    "d3-geo": "1.12.1",
     "d3-hierarchy": "1",
     "d3-interpolate": "1",
     "d3-path": "1",
